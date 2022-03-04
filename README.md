@@ -1,6 +1,6 @@
 # Amina_Portfolio
 
-# Project1: Grad student admission predictor
+# [Project1: Grad student admission predictor](https://github.com/AminaMeg/Grad-Admission-Predictor)
 *	Collect datasets of grad admission records from USIEF website to analyze which of the factors (GPA, GRE, TOFEL, Work Experience) is more required to be admitted.
 *	Using different supervised machine learning algorithms (Decision tree, naïve bayes, KNN) to analyze the data and predict the admission of the student. 
 *	Evaluating the accuracy of the results using Confusion matrix and ROC Curve. 
