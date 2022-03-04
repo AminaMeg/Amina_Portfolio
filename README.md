@@ -1,8 +1,8 @@
 # Amina_Portfolio
 
-Project1: Grad student admission predictor
-·	Collect datasets of grad admission records from USIEF website to analyze which of the factors (GPA, GRE, TOFEL, Work Experience) is more required to be admitted.
-·	Using different supervised machine learning algorithms (Decision tree, naïve bayes, KNN) to analyze the data and predict the admission of the student. 
+#Project1: Grad student admission predictor
+*	Collect datasets of grad admission records from USIEF website to analyze which of the factors (GPA, GRE, TOFEL, Work Experience) is more required to be admitted.
+*	Using different supervised machine learning algorithms (Decision tree, naïve bayes, KNN) to analyze the data and predict the admission of the student. 
 ·	Evaluating the accuracy of the results using Confusion matrix and ROC Curve. 
 Project2 : Movie Recommendation System 
 ·	Creating a platform that uses a filtering process to offer users various contents based on their preferences and based on information about other users with similar viewing preferences. 
